@@ -5,12 +5,84 @@
     <link>https://wltcwpf.github.io/author/pengfei-wang/</link>
       <atom:link href="https://wltcwpf.github.io/author/pengfei-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Pengfei Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 24 May 2020 20:04:23 +0000</lastBuildDate>
     <image>
-      <url>https://wltcwpf.github.io/author/pengfei-wang/avatar_hu3a5beb7f56efd46d1b3379aa463eba93_1236857_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://wltcwpf.github.io/images/icon_hu15650ba43ac400310ba3e2487ba7a6e7_9577_512x512_fill_lanczos_center_2.png</url>
       <title>Pengfei Wang</title>
       <link>https://wltcwpf.github.io/author/pengfei-wang/</link>
     </image>
+    
+    <item>
+      <title>Data-Derived Site Response and Its Predictability Using Ergodic and Site-Specific Methods</title>
+      <link>https://wltcwpf.github.io/publication/wang/</link>
+      <pubDate>Sun, 24 May 2020 20:04:23 +0000</pubDate>
+      <guid>https://wltcwpf.github.io/publication/wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RECONSIDERING BASIN EFFECTS IN ERGODIC SITE RESPONSE MODELS</title>
+      <link>https://wltcwpf.github.io/publication/nweke/</link>
+      <pubDate>Sun, 24 May 2020 20:04:23 +0000</pubDate>
+      <guid>https://wltcwpf.github.io/publication/nweke/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ground Deformation Data from GEER Investigations of Ridgecrest Earthquake Sequence</title>
+      <link>https://wltcwpf.github.io/publication/brandenberg-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://wltcwpf.github.io/publication/brandenberg-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applications of non-ergodic site response in ground motion modeling</title>
+      <link>https://wltcwpf.github.io/publication/stewart-2019-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wltcwpf.github.io/publication/stewart-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preliminary Report on Engineering and Geological Effects of the July 2019 Ridgecrest Earthquake Sequence</title>
+      <link>https://wltcwpf.github.io/publication/stewart-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wltcwpf.github.io/publication/stewart-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RECONSIDERING BASIN EFFECTS IN ERGODIC SITE RESPONSE MODELS</title>
+      <link>https://wltcwpf.github.io/publication/nweke-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wltcwpf.github.io/publication/nweke-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seismological, Geological, and Geotechnical Engineering Aspects of the 2018 MW 6.6 Hokkaido Eastern Iburi Earthquake</title>
+      <link>https://wltcwpf.github.io/publication/kayen-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wltcwpf.github.io/publication/kayen-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&#34;R&#34; Package for Computation of Earthquake Ground Motion Response Spectra</title>
+      <link>https://wltcwpf.github.io/publication/wang-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://wltcwpf.github.io/publication/wang-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macroscopic approach for optimizing road space allocation of bus lanes in multimodal urban networks through simulation analysis</title>
+      <link>https://wltcwpf.github.io/publication/zheng-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://wltcwpf.github.io/publication/zheng-2017/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

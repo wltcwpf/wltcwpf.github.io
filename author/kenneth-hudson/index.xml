@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kenneth Hudson | Welcome to Pengfei&#39;s Website!</title>
+    <link>https://wltcwpf.github.io/author/kenneth-hudson/</link>
+      <atom:link href="https://wltcwpf.github.io/author/kenneth-hudson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kenneth Hudson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wltcwpf.github.io/images/icon_hu15650ba43ac400310ba3e2487ba7a6e7_9577_512x512_fill_lanczos_center_2.png</url>
+      <title>Kenneth Hudson</title>
+      <link>https://wltcwpf.github.io/author/kenneth-hudson/</link>
+    </image>
+    
+    <item>
+      <title>Ground Deformation Data from GEER Investigations of Ridgecrest Earthquake Sequence</title>
+      <link>https://wltcwpf.github.io/publication/brandenberg-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://wltcwpf.github.io/publication/brandenberg-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preliminary Report on Engineering and Geological Effects of the July 2019 Ridgecrest Earthquake Sequence</title>
+      <link>https://wltcwpf.github.io/publication/stewart-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://wltcwpf.github.io/publication/stewart-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
