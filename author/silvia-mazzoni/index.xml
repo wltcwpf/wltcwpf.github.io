@@ -5,7 +5,7 @@
     <link>https://wltcwpf.github.io/author/silvia-mazzoni/</link>
       <atom:link href="https://wltcwpf.github.io/author/silvia-mazzoni/index.xml" rel="self" type="application/rss+xml" />
     <description>Silvia Mazzoni</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wltcwpf.github.io/images/icon_hu15650ba43ac400310ba3e2487ba7a6e7_9577_512x512_fill_lanczos_center_2.png</url>
       <title>Silvia Mazzoni</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Engineering Characteristics of Ground Motions Recorded in the 2019 Ridgecrest Earthquake Sequence</title>
+      <link>https://wltcwpf.github.io/publication/ahdi-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://wltcwpf.github.io/publication/ahdi-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Preliminary Report on Engineering and Geological Effects of the July 2019 Ridgecrest Earthquake Sequence</title>
-      <link>https://wltcwpf.github.io/publication/stewart-2019/</link>
+      <link>https://wltcwpf.github.io/publication/brandenberg-2019-r/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://wltcwpf.github.io/publication/stewart-2019/</guid>
+      <guid>https://wltcwpf.github.io/publication/brandenberg-2019-r/</guid>
       <description></description>
     </item>
     

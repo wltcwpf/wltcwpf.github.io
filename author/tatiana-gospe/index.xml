@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tatiana Gospe | Welcome to Pengfei&#39;s Website!</title>
+    <link>https://wltcwpf.github.io/author/tatiana-gospe/</link>
+      <atom:link href="https://wltcwpf.github.io/author/tatiana-gospe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tatiana Gospe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wltcwpf.github.io/images/icon_hu15650ba43ac400310ba3e2487ba7a6e7_9577_512x512_fill_lanczos_center_2.png</url>
+      <title>Tatiana Gospe</title>
+      <link>https://wltcwpf.github.io/author/tatiana-gospe/</link>
+    </image>
+    
+    <item>
+      <title>Relational Database for Horizontal‐to‐Vertical Spectral Ratios</title>
+      <link>https://wltcwpf.github.io/publication/wang-2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://wltcwpf.github.io/publication/wang-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Horizontal-to-vertical Spectral Ratios from California Sites: Open-source Database and Data Interpretation to Establish Site Parameters</title>
+      <link>https://wltcwpf.github.io/publication/wang-2021-r/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://wltcwpf.github.io/publication/wang-2021-r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
